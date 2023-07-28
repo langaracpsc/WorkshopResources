@@ -1,0 +1,21 @@
+
+Wiki: https://en.wikipedia.org/wiki/Representational_state_transfer
+
+Pizza API: https://5dd2-209-87-29-242.ngrok-free.app/ (temporary, will be taken down after the workshop ends)
+
+Online REST Client: https://reqbin.com/
+
+Postman (native REST client app) : https://www.postman.com/downloads/
+
+OpenAI API platform: https://platform.openai.com/
+
+OpenAI Chat Completion reference: https://platform.openai.com/docs/api-reference/chat
+
+Python json module reference: https://docs.python.org/3/library/json.html
+
+Python requests module reference: https://requests.readthedocs.io/en/latest/api/
+
+Curl Manpage: https://curl.se/docs/manpage.html
+
+OpenAI Models: https://platform.openai.com/docs/models/continuous-model-upgrades 
+
